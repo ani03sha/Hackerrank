@@ -1,0 +1,6 @@
+[submodule "Python-Language"]
+	path = Python-Language
+	url = https://github.com/ani03sha/Python-Language.git
+[submodule "Java-Language"]
+	path = Java-Language
+	url = https://github.com/ani03sha/Java-Language.git
